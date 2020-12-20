@@ -1,5 +1,5 @@
 # Sirait-Tarombo-Database
-Sirait Genealogy Database, 2020
+Sirait Genealogy Database, tahun 2020
 
 ## Download
 
