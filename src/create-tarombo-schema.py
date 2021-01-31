@@ -1,6 +1,6 @@
 import sqlite3, os
 
-db = '..\\Database\\sirait-link.db'
+db = '..\\Database\\sirait-link.sqlite'
 
 if os.path.isfile(db):
 	os.remove(db)
